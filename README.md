@@ -12,6 +12,7 @@ Users can select a movie, choose the number of seats, and get a total bill with 
 ---
 
 ## 🏷️ Overview
+
 | 🎥 Feature | 💡 Description |
 |-------------|----------------|
 | 📜 Movie List | Displays available movies with ticket prices |
